@@ -1,0 +1,6 @@
+venv/
+shortest-path-simpl/cache
+shortest-path-complex/cache
+shortest-path-ui/cache
+.DS_Store
+*.osm.pbf
